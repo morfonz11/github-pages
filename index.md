@@ -1,7 +1,5 @@
 __Welcome to my blog__
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. 
 
-First website
-
-__And it is dope.__
+__It is dope.__
