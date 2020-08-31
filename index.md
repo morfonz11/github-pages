@@ -1,4 +1,4 @@
-__Welcome to my blog__
+__Welcome to my blog!__
 
 I'm glad you are here. 
 
